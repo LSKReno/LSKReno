@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: lisikuanreno@gmail.com
+- 🐒 Reno's Blog: [LSKReno's Blog](https://reno-blog.vercel.app/)
+[![LSKReno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSKReno)](https://github.com/anuraghazra/github-readme-stats)
