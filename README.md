@@ -22,14 +22,11 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-trophy.vercel.app/?username=LSKReno&column=8&theme=radical&no-frame=true&no-bg=true)
 
+[![LSKReno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSKReno&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LSKReno&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LSKReno&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LSKReno&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LSKReno&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LSKReno&theme=solarized_dark)
-
-[![LSKReno's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSKReno&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
